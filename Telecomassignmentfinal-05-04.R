@@ -1,5 +1,4 @@
 getwd()
-setwd("C:\\Users\\krish\\Desktop\\capstone project")
 ftele<-read.csv("sampletelecomfinal.csv", header = T)
 str(ftele)
 dim(ftele)#dimension of dataset
